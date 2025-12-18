@@ -44,6 +44,8 @@ The dataset contains simulated marketing campaign data, including:
 - Apply weighted average calculations for ROI and conversion rate
 - Expand analysis using Power BI or SQL for deeper insights
 
+- ## Download Presentation: Marketing-Campaign-Performance-Analysis.pptx(pptx's cannot be showcased on github,unless downloaded)
+
 ## Author
 Abena Cica Mireku  
 Aspiring Data Analyst & Business Intelligence Analyst
